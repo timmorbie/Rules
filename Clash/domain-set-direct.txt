@@ -1,3 +1,4 @@
-captive.apple.com
-.linkbroad.com
-wiportal.wiwide.com
+payload:
+  - 'captive.apple.com'
+  - 'linkbroad.com'
+  - 'wiportal.wiwide.com'

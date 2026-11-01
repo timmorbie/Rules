@@ -1,2 +1,3 @@
-launchdarkly.com
-clientstream.launchdarkly.com
+payload:
+  - '+.launchdarkly.com'
+
