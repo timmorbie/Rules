@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,push.apple.com
+payload:
+  - 'push.apple.com
