@@ -1,2 +1,4 @@
 payload:
-  - 'push.apple.com
+  - 'push.apple.com'
+  - '66img.cc'
+  - '23img.com:'
