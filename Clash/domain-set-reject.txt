@@ -1,3 +1,4 @@
 payload:
   - '+.launchdarkly.com'
+  - '+.static.parallels.com'
 
