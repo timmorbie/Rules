@@ -2,3 +2,5 @@ payload:
   - 'captive.apple.com'
   - 'linkbroad.com'
   - 'wiportal.wiwide.com'
+  - 'suwangcloud.xyz'
+
