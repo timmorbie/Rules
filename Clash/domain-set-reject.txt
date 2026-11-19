@@ -1,10 +1,10 @@
 payload:
-  - '+.launchdarkly.com'
-  - '+.static.parallels.com'
-  - '+.ingest.us.sentry.io'
-  - '+.collect.tealiumiq.com'
-  - '+.external-content.duckduckgo.com'
-  - '+.staticcdn.duckduckgo.com'
+  - 'launchdarkly.com'
+  - 'static.parallels.com'
+  - 'ingest.us.sentry.io'
+  - 'collect.tealiumiq.com'
+  - 'external-content.duckduckgo.com'
+  - 'staticcdn.duckduckgo.com'
   - 'improving.duckduckgo.com'
 
 
