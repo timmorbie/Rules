@@ -1,4 +1,5 @@
 payload:
   - '+.launchdarkly.com'
   - '+.static.parallels.com'
+  - '+.ingest.us.sentry.io'
 
