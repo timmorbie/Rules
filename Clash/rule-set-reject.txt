@@ -16,3 +16,7 @@ DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,zjtoolbar
+
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,mmstat.com
