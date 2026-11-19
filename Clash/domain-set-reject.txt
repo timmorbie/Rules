@@ -5,6 +5,6 @@ payload:
   - '+.collect.tealiumiq.com'
   - '+.external-content.duckduckgo.com'
   - '+.staticcdn.duckduckgo.com'
-  - '+.improving.duckduckgo.com'
+  - 'improving.duckduckgo.com'
 
 
