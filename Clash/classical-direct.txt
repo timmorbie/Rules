@@ -71,3 +71,35 @@ payload:
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,akadns.net
+
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,alibaba
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,bytedance
+  - DOMAIN-KEYWORD,xiaomi
+  - DOMAIN-KEYWORD,huawei
+  - DOMAIN-KEYWORD,netease
+  - DOMAIN-KEYWORD,meituan
+  - DOMAIN-KEYWORD,pinduoduo
+  - DOMAIN-KEYWORD,kuaishou
+  - DOMAIN-KEYWORD,jingdong
+  - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-KEYWORD,-cn
+
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,17.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,198.18.0.0/16
+  - IP-CIDR,224.0.0.0/4
+  - IP-CIDR6,::1/128
+  - IP-CIDR6,fc00::/7
+  - IP-CIDR6,fe80::/10
