@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,180.76.76.200
+  
   - DOMAIN,ad-channel.diwodiwo.xyz
   - DOMAIN,ad-display.diwodiwo.xyz
   - DOMAIN,ad.ozone.ru
@@ -212701,6 +212701,7 @@ payload:
   - DOMAIN-REGEX,.*pcdn.*youku.com
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
+  - IP-CIDR,180.76.76.200/32,no-resolve
   - IP-CIDR,101.124.19.122/32,no-resolve
   - IP-CIDR,101.91.140.124/32,no-resolve
   - IP-CIDR,101.91.140.224/32,no-resolve
