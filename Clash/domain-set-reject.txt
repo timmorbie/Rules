@@ -6,5 +6,7 @@ payload:
   - 'external-content.duckduckgo.com'
   - 'staticcdn.duckduckgo.com'
   - 'improving.duckduckgo.com'
+  - 'jddebug.com'
+
 
 
