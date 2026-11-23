@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,ini.itunes.apple.com
+  - DOMAIN-SUFFIX,sp.itunes.apple.com
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,radio-activity.itunes.apple.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
