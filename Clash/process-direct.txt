@@ -1,1 +1,3 @@
-
+payload:
+  - PROCESS-NAME,prl_naptd
+  - PROCESS-PATH,/Applications/Parallels Desktop.app/Contents/MacOS/prl_naptd
