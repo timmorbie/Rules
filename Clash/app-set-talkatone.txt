@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,xmpp-sjc-04-02.tktn.be
+  - DOMAIN-SUFFIX,d.tktn.be
+  - DOMAIN-SUFFIX,relay-sjc-04.tktn.be
+  - DOMAIN-SUFFIX,xmpp-sjc-07-02.tktn.be
+  - DOMAIN-SUFFIX,lb-iad-01.tktn.be
+  - DOMAIN-SUFFIX,xmpp4.tktn.be
+  - DOMAIN-SUFFIX,relay-sjc-07.tktn.be
+  - DOMAIN-SUFFIX,relay-sjc-06.tktn.be
+  - DOMAIN-SUFFIX,a1.tktn.be
